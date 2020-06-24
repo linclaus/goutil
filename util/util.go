@@ -5,5 +5,5 @@ import(
 )
 
 func Util(){
-	fmt.Println("this is util func")
+	fmt.Println("hello, this is util function")
 }
